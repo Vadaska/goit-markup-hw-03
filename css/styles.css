@@ -67,7 +67,6 @@ body {
 }
 .header-container {
   display: flex;
-  padding: 24px 0 24px;
 }
 
 .header-nav {
@@ -80,11 +79,13 @@ body {
 .menu-list {
   display: flex;
   gap: 40px;
+  padding: 24px 0 24px;
 }
 
 .menu-adress {
   display: flex;
   gap: 40px;
+  padding: 24px 0 24px;
 }
 
 .logo {
