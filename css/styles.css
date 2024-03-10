@@ -63,7 +63,7 @@ body {
 
 /*****header start*****/
 
-header {
+.header-top {
   padding-top: 24px;
   padding-bottom: 24px;
   border-bottom: 1px solid #e7e9fc;
@@ -227,24 +227,18 @@ header {
 /****** section team start ******/
 
 .team {
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-color: #f4f4fd;
 }
 
 .team-wrap {
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 
 .team-card-list {
   display: flex;
   gap: 24px;
 }
-
-/* .team-card-list h3,
-p {
-  color: red;
-  padding: 32px 16px 32px 16px;
-} */
 
 .team-title {
   font-size: 36px;
