@@ -284,6 +284,8 @@ body {
 /****** section Portfolio start ******/
 
 .portfolio {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .portfolio-row1 {
@@ -304,10 +306,6 @@ body {
   border-top: none;
 }
 
-.portfolio-wrap {
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
